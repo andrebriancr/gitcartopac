@@ -1,3 +1,3 @@
 console.log("Server iniciado");
 
-console.log("Nuevo server");
+console.log("Bienvenido");
