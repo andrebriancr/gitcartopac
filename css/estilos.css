@@ -2,3 +2,8 @@ body{
     background-color: black;
     color: whitesmoke;
 }
+
+a{
+    color: red;
+    background-color: black;
+}
